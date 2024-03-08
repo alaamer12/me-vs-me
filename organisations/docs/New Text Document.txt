@@ -1,0 +1,51 @@
+	Listen, he spoke for 3.5 hours, starting from 12 and going until 3:30. 
+	Here's a summary of what he covered:
+
+		He discussed choosing programming fields, with a focus on the web development 
+		sector.
+		He emphasized the significance of the backend as the most crucial field in his 
+		opinion.
+		He explored the distinctions between backend and frontend development.
+		He delved into the interconnection of backend and frontend, 
+		highlighting the backend's need for more mental thinking 
+		and guidance compared to other fields.
+		He encouraged a comparison between Laravel and .NET.
+		He provided insights into .NET C#.
+		He shared advice on thinking logically to achieve one's dreams.
+		He recounted personal life experiences, such as deciding to open a company,
+		the initial experience, the most challenging programming hurdle faced, 
+		navigating the job market, interpersonal experiences, the rewards of diligence,
+		and the necessity of engaging with the job market even if you are adept.
+		He cautioned against opting for free lancing without prior experience, 
+		emphasizing the potential frustration and challenges.
+		He offered solutions to common problems like developmental roadblocks,
+		lack of concentration, and coding challenges.
+		Lastly, he mentioned a C#, .NET course he completed and extended an invitation for 
+		others to join him in taking it.
+		
+		
+		
+		
+		
+		
+		
+		
+		those are the things the have been told in the seminar , but we want the bullets for ourseleves
+		so those are the most important things have been told in it:
+			taking a long or hardcore road actually isnt a bad idea, becuase it can centrilze ur self
+			also not all can finish this long way , only the hardworkers and patients can do it
+			
+			u have to think more at ur area not in global area , u have to think more at best way 
+			for future even if it is harder or longer
+			
+			u have to gain experience and the experience is gained from interaction even if u dont like 
+			to have a boss , but this is helping u to know how the real scenarios happen in real life
+			
+			failing at something does not always means the lack of ur ability, sometimes people look
+			for more the qualification or abilities but they look from where u came ur look, gender and so 
+			
+			nothing starts big , but u have to think big , u have to put logically plan not just going with wind
+			
+			its recommended to take one track not more and focuse on it 
+			
+			

@@ -1,0 +1,51 @@
+Note:
+	the `-` used between two time to show the interval
+	the `~` used between two times to show the approxmateily interval
+
+the perfect day:
+	this data from my point of view [reminds 24]
+	i think it is idealy to make the day start from 6-7 or at sunshine
+		and	ends the day at 9:30 to 11 or before midnight by while [reminds 16~15]
+	i think it is good if u practice typing like about 30 mins or less
+		to enhance ur writting skills [reminds 15:30~14:30]
+	i think it is good if u listened[watched] some useful content as courses
+		from 3 - 4 hours of courses per day [reminds 11:30~10:30]
+	i think it is good if u spent 2 - 3 hours  practical time [reminds 8:30~7:30]
+	i think it is good if u spent 80 pages of a book daily and reading the book 
+		takes about 1 hour and keep tracking and understanding take about
+		another hour [reminds 6:30~6]
+	if we calculated the time used for eating , and other affairs we can give it 
+		2 - 3 hours [reminds 4~3]
+	usually we take a break after a while like after studing for 2 hours or less
+		and usually the break is 30 mins, but if we calculated the total break time
+		about 5 - 6 break time [reminds 2~1:30]
+	if we defined the error in calculations as 1 - 2 hours [reminds 0~0]
+	
+	by that we have finished useful 24 hours, this guide assumes standard normal conditions
+	NOTE THIS GUIDE IS UN-SORTED
+	
+	
+**standard normal conditions [SNC]**:
+	is the person has no outer activites[e.g. hanging out], not injuired, not sick, doesnt
+		have obiligations to someone or something, is totally free of obiligations,
+		
+	
+Note:
+	it is hard to make a guide if one of the SNC has failed,
+	to make such a guide we need first to know which condition has failed
+	here is my expectations:
+		if external activites:
+			we need to know the exact time , also we need to add a rest time which i expect
+			wont be less than 3 hours
+		else if injuiries or illness:
+			this is not the most hurmful case , but due to that , maybe the sleeping time
+			and breaks will increase and it can increase to over 4 hours
+		else if obiligate to something [not choiceable]:
+			this is would make ur obiligations the top pirority which will lead to dispense with
+			a role in the guide
+		else if obiligate to something [choiceable]:
+			this is may decrease the obiligations [not choiceable] pirority but it is still
+			an obiligation, which wont be best practice if u avoided it
+		else:
+			it is hard to tell if there is another reason other than those reasons[conditions]
+			in SWC , so u would have to man-up

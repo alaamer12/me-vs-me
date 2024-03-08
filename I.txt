@@ -1,0 +1,92 @@
+
+/% // Typing
+
+!! https://www.typingclub.com  >> website helps u write faster in keyboard , 
+	but it looks like the site is down
+
+https://www.speedcoder.net >> trainning for code writting [it is server is down for now]
+
+https://typing.io >> trainning for code writting 
+
+!https://www.keybr.com/
+
+!! https://www.ratatype.com/
+
+https://monkeytype.com/
+
+%/
+
+/% // Others
+
+https://namelix.com/ >> a good site to give u a name of ur products and a bio
+	
+https://mixo.io >>makes ur startup
+
+https://aiutor.com >> a site gathered all ai sites in his site
+
+! https://www.title-generator.com/ >> create tons of titles for u
+
+! https://brandmark.io >> makes ur brand
+
+! https://answersocrates.com >> find realted topics with ur topic
+	
+%/
+
+/% // Programming
+
+https://uiverse.io >> it is a site like codepen
+
+!! https://www.codingame.com/ >> it is like code signal site but for gaming development
+
+!! https://www.codewars.com/ >> a site like code signal but it looks harder 
+
+! https://www.frontendmentor.io/challenges >> this site has challnges for frontend 
+	it gaves u the challenge then u can upload it when ever u want
+	and it gives u the items u need after u upload it it shows u the others 
+	result[codes]
+	
+! https://leetcode.com/ >> and this another one like codewars
+
+!! https://www.codechef.com/ >> is an open source for code problems
+
+! https://edabit.com/ >> ...............
+
+https://www.hackerrank.com/ >> ...............
+
+https://exercism.org/ >> code site like code signal and others but 
+	it looks it suits us becuase of its easeness
+ 
+https://devchallenges.io >> a site for challenges and solutions, it give u challenge
+	and u do it on ur own local machine and IDE then upload it to them after
+	puplic it like github pages
+
+%/
+
+/% // Marketing
+
+https://contlo.ai >> it is a personal ai marketer [maybe like a chatbot for marketing] [paid]
+
+https://cookup.ai/ >> a site of many services and tools specially for marketing 
+	and it has a branch for programming
+	
+https://www.dimeadozen.ai/ >> it is a site tells u data about the marketing  u 
+	target and idea u have and ur opponents [paid]
+	
+%/
+
+/% // Media
+
+! https://postly.ai >> creates scoial medias contents 
+
+https://rytr.me/ >> writes things for u
+
+https://instantly.ai : its a website creates a content of "instgram" for 
+	30 days just in 5 mins [14-day-trial]
+	
+https://vidyo.ai >> turns long videos into short ones
+
+! https://simplified.com >> it is a site has many tools for content creators
+
+! https://explodingtopics.com/ : tells u the trendy now
+
+%/

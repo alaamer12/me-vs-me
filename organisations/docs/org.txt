@@ -1,0 +1,40 @@
+this is just my thoughts to make perfect plan for our project, we have to declare everything and kill the ambiguous,
+
+but first to kill the ambiguous u have to visualise the information, so one if the Ideas to show the information is to use documentation but not a documentation for users or developers but for us
+
+
+, this documentation should show a lot of things, i will post what i remembering now:
+progress
+all directories
+all tools
+ plans [A,B,C,X]
+env plans [A,B,C,X]
+overview
+roadmap
+motivation
+methodology/philosophy
+audience
+app system info
+mvp
+mvp overview
+all apis 
+all apis unused
+all apis used
+all scaling api
+future overview
+apps
+project structure overview
+dependacies overview
+bugs overview
+development progress overview
+presquites
+chefs and rols
+optionals
+useful content about 
+learn more
+why
+how/implementation 
+best practice about
+full plan that covers every aspect not only in development process
+blueprint(s)
+desgin pattern

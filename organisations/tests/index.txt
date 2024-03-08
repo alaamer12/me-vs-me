@@ -1,0 +1,4 @@
+this are things u should do it with unit tests
+make a test to expect gives passed result
+make a test to expect raise excecption [Optional: it is better if u specfied the exception]
+if the function can raise more than an exception , it would be if u test them all
