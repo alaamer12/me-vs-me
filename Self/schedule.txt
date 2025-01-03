@@ -1,0 +1,170 @@
+#sch
+	this file covers what should the schedule have
+
+		it should cover college activities: the time of lectures, the time to study 
+			those lectures in-house, the time to do the assignments in-house, 
+			the total time consumed from leaving the house till return 
+			back to it when going to colleges, the days of exams and before exams.
+
+		it should cover in-house learning: the time to get the resources, 
+			the time to study those resources as a lectures.
+
+		it should cover practical time: the time used for doing physical practice in-house, 
+			the time used for doing practical projects in-house, 
+			the time to get practical resources.
+
+
+		it should cover the maintenance time: the time used internally and externally 
+			in maintaining and organising 
+
+		it should cover reading time
+
+		it should cover playing/resting time
+
+		it should cover hanging out
+
+		it should cover creational: like the time spent on creating schedules
+
+		it should have scoring system
+
+		it should cover the managing/accounting time: it should cover the time to settings up 
+			the accounts, creation of posts  ,management of posts, interactive time
+
+		it should cover the chatting time: it should cover the time used to chat with others,
+			chatting with bots
+
+
+		it should cover the ordinary time: ordinary time like sleeping getting groceries, 
+			eating,...etc. 
+			
+	
+	
+	
+	this is what should the schedule contain, the remined problem is to choose which application
+		will help throught, the best two options for us so far are: [outlook, clockify]
+		outlook is like to be more for managing celender, it can customize every reminder on the 
+		celender like with different color, category, and customizations
+		also outlook can be integrated with oneNote,
+		to be honest i havent used oneNote before but it looks interseting
+		unlike clockify which it focuse more on tasks , it tracks time spent and assign it to a task
+		but it doesnt use categories it uses tags, and u can not color or give different look 
+		to each task or related tasks , u only can assign each task to a project and give it some tags
+		also clockify can be integrated with outlook but this integration is kinda limited, it can 
+		only import to its celender the the time set in outlook but it cant update any state in outlook
+		and the imported reminders from outlook to clockify are not customizable, and for some
+		reasons the reminders at outlook can have a name and describtion but in clockify it can 
+		only have name
+		and also clockify can not repeat tasks unlike outlook and u have to duplicate and set it by
+		urself
+		so in short u can not update state of any imported reminder internally nor externally
+		
+		honestly, i would like if clockify has more feature in integration between it and outlook
+			and more customizable look
+			
+			becuase of this, im confused i cant determine how to set the schedule,
+			do i use outlook with time tracking features
+			or do i use clockify without customizable look
+			and even if i tried to use both of them becuase clockify cant update the reminders 
+			i have to update it manually in outlook
+			
+			so far we have three ways, we need to think wisely to determine how we can do a good schedule
+			suits us
+	
+	
+	
+			
+			i think after considering the trade-offs we have decided to use both of them 
+			with manually regularly updates
+			
+	we have talked so far about the components of the schedule and the options
+	now we have to talk on how it will look, how the score system will be implemented,
+	matrix for score system, schedule iteration/update
+	
+	
+	
+i think scoring system will be:
+	the weight * the percentage of completion * the percentage of adherence of time
+		if missing task gets 0 points,
+		incompetence time block functions,
+		Procrastination,
+		time wasting,
+		also we will add quality standards,
+
+the object will contain:
+
+	name,
+	promocode <no_input>,
+	description <opti>,
+	notes <opti>,
+	task name <opti>, 
+	tags,
+	projects,
+	maximum score,
+	adherence time,
+	task completion percentage,
+	repeated, 
+	creation date <no_input>,
+	update date <no_input>, 
+	id <no_input>, 
+	obtained score (per day,week,month) <no_input>, 
+	adherence rate (per day,week,month) <no_input>, 
+	total maximum time (per day,week,month) <no_input>,
+	total obtained time  <no_input>
+	(per day,week,month), 
+	priority/weight of task, duration <no_input>,
+	leaps , 
+	status (complete, incomplete, missed),
+	counter of the task  <no_input>, 
+	counter of total leaps  <no_input>,
+	user/Acess_level, 
+	statistics functions (mean, stdev, var, max and mini, mode, median ) <no_input>,
+	task badge < no_input, due date (today, yesterday , previous date ), 
+	completion date (today, yesterday , previous date ), 
+	task(perfect , good , accepted, unacceptable)  <no_input>,  
+	health <opti (unchanged, get worse, get better ), 
+	counter of total missing  <no_input>,
+	counter of task badges  <no_input, badge for total tasks <no_input>,
+	relation with project(strong, weak) <opti>,
+	log functions < opti no_input>,
+	location, 
+	deadline, 
+	deadline total counter,
+	feedback <opti>, 
+	streak <opti no_input>,
+	all the degrees of projects and statistics functions,
+	environment,
+	username,
+	histroy,
+	abondence,
+	abondence counter,
+	task constraints,
+	percentage of adherence (per day,week,month) <no_input>
+	
+	Notes: the `<>` used to tell the next information are related with implementation,
+		opti means optional , no_input means no input from user
+
+	some description for some keys in the object:
+		promocode: it contains from two letters with it u can acess the task or with id
+		task name: is similar to name key but name key can be changed while task name not
+		repeated: means how this task is repeated like daily , 
+			weekly, ...etc. it can also accept int values
+		leaps: mean how many leap (pause and play) u did in this task
+		task badge: is the badge that tells u how u have did in the task,
+			like if u did 48/50 the badge will be 'perfect'
+		location: is meant to be with two options only [internally, externally]
+		deadline: is three days after due date 
+
+
+	
+
+
+
+	base class:
+		established time,
+		time consumed (per day,week,month) <no_input>,
+		obtained time (per day,week,month) <no_input>,
+		the number of objects, 
+		configuration, 
+		schedule update time, 
+		
+		

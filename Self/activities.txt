@@ -1,0 +1,217 @@
+this is activities file which i do on pc or of the pc or on phone for trace back
+they are just the activities i do daily
+**Knowing** That some days have exceptions
+Note: `P` for phone , `PC` for personal computer, PPC means Phone and PC 
+Note: the mentioned time here is approxmateliy, `~` means in this range approxmateliy
+Note: that i use `learn` verb to mention to self-learning that are usually courses we find
+	on eductional platfroms like youtube, but when i mention `study` i mean the studying for 
+	college that is our certificate
+	i mean by 'watch' verb here is that the time i watch series and movies 
+
+	ML[P]: it is the time spent on mobile legends game, mobile legends has two main modes 
+		i play[rank and brawl]
+		rank takes about 2~3 games for 1 hour
+		brawl takes about 4~5 games for 1 hour
+		Note: ML has more than those two modes but im rarely play any other modes
+			and usually any other mode will take hardly the same time that brawl 
+			mode will take so u can consider when i mention brawl i mean 
+			any other mode rather than rank
+			
+	Games[PC]: They are the games i play on pc from day to day,
+		usually the spent time from 30 mins to 60 mins
+		
+	Media:
+		Facebook[P]: usually the spent time on Facebook are useless and usually this time 
+			were on reels and it becomes a happit to use Facebook mindless,
+			Facebook considered to be the 2nd most distracted activity i do, so we need to
+			detract it before it is getting worse and for better productivity
+			we also need to calculate the time spent on it to make ideal for us 
+			the only way to calculate the time spent on Facebook is the time analysis 
+			built in my phone which can show the time spent with each app through a day
+			or a week, also it can set time out for some apps which would be benfcial 
+			and it is kinda solved the problem but still there is something more, like 
+			what if i become to use facebook on pc, we would need a solution for this
+			this is would make it harder so i will try to not transform Facebook into 
+			`PPC` use
+			
+			Truthfully, actually we have a lot to do on Facebook, we have three accounts
+				for Facebook[personal account, organisation account, advertiser account]
+				all of those account are at initial stage, which means they still dont have 
+				a presence, charisma, stamina <Metophorically>, and so
+				
+				for personal account, it is the account we enjoy engage on it like seeing some
+					posts or reels, it is just the account we enjoy to use and dont relate to any 
+					work/job or any productivity
+					
+				for organisation account, it is the account for `tealim` page which it is the future app of mine,
+					this account should create at least small presence, active page, feedbacks, and stakeholders
+					before its launch
+					
+				for advertiser account, it is the account to advertise for `tealim` page when it is launched
+					this account should have a lot of acquaintances, popular presence, truthfully account,
+					honest person,fluent talking, active personal page and engagable person
+				
+				so far the advertiser account would be the most challenging account,
+				it has many criteria to fulfill
+				
+		Discord[PPC]: we need to give some time for it for building revolution in community servers
+			we have already joined a lot of community servers and we even a did our own server
+			which we would use it in the future but not now 
+			
+		Telegram[PPC]: we need to give it also some time, but unlike discord Telegram doesnt have
+			many channels or communities we are joined in as Discord
+			
+		Linkedin[PPC]: i think it is important to give it a time for career and so, but actually im 
+			still dont know what to do on it or what to post
+			
+		Medium[PPC]: Medium is useful application but becuase of member access only usually 
+			good stories are hidden. However, Medium monthly price is not expensive it is 
+			about 100LE. but this is up to me, so i have to make sure that the time i gonna pay
+			i should utilize it and benfit from it.
+			However freemium Medium account can still be valuable, so i think we should 
+			give it some time
+		Twitter[PPC]: im actually dont use twitter at all and i dont like it, i dont 
+			enjoy using this app and i dont care to others twitts, but i have found out 
+			that twitter is being used as more formally for offcial accounts and organisations
+			like u may found an offical account of organisations `X` but maybe u wont find it 
+			also on other social media platforms like Facebook
+			
+		Instagram[PPC]: i dont use Instagram and i find it useless but some accounts of Facebook
+			will be linked on Instagram too, so usually any post goes to Facebook will go Instagram
+			i wont specify any time for Instagram, but i only wanted to say they will be in sync
+			
+		Threads[PPC]: is similar app for Twitter, which gain a lot of popularity once it is released
+			but i dont use it and i wont use it specially the accounts cant be deleted
+			and it is from Facebook so Threads and Instagram and Facebook are in sync
+			and deleting ur account on Threads mean delete it everywhere
+			becuase sync is not an option in Threads
+			
+		i think those are all social media i use in addition to `Reddit` [i dont see it benfcial]
+			some of them are distracted and some of them are benfcial, but what i want is to give
+			every one of them a time off so it could be always benfcial,
+			also we need to determine how would we engage in every medium
+			
+		i think this would be the expected arrangement of the most spend 
+			time medium till the least:
+				Facebook [60 mins]
+				Discord [45 mins ~ 90 mins]
+				Linkedin [45 mins ~ 60 mins]
+				Twitter [45 mins ~ 60 mins]
+				Medium [30 mins ~ 60 mins]
+				Telegram [15 mins ~ 300 mins]
+				
+				so total time will be ranged in [240 mins ~ 360 mins]
+		
+	YouTube[PPC]: is divided into many partitions but usually it is being used for 
+		learing sessions and watching sessions 
+		i use YouTube for many things but this things i watch based on the acount i use
+		where i specified each activity i do on youtube with account
+		for learing i use `ahmedmuhmmed` account, for watching i use `amrmuhamed86`
+		for getting `tealim` page i use account `alaamer`
+		
+	PoS[P]: i hate to admit it but this is sometimes happen which i cant ignore 
+		it and it costs alot of time , power and motivation , so im just wishing to 
+		stop this one time and forever
+		
+	browsing/surfing[PPC]: this is actually can not be defined because it is in general 
+		case when i am browsing on internet, sometimes i browse for 
+		knowledge, sometimes browse for fun like to watch movies
+		this are the most things i search about:
+			seeking for help with a bug i found like on stackoverflow
+			explore useful content on github
+			use some web utils online like background remove, pdf online editor
+			trying to figure out or check from somewhat website and see what service it provide
+			learning on some docs sites
+			trying to download/install something
+			browse on specific thing
+			this what i can think i do it for now
+			
+	reading[PPC]: usually the time take to read about 80 pages is 1 hour while the 
+		time to study those is about 1~2 hours study,
+		usually the time i read on the phone is when im outside at somewhat transportation
+		
+	learing[PPC]: is the time when i learn from courses thoses courses are usually
+		or by 95% installed on local machines, and not on online platforms
+		becuase we prefere the course to be installed locally
+		
+	studying[PC]: this time is hard to be knowm because it is the time i study for 
+		college and this is depend on several factors like 
+		what subject i study , how hard or depth it is , am i late in studying, 
+		is it smoothly understandable, subject resources, ...etc.
+		
+	organising/maintaining[PPC]: from time to time like for every month or two month 
+		i do some maintenance for the pc , like i reorganize the files and folder, 
+		delete un wanted files defrag, clean it from inside and outsids , ...etc.
+		the time differs from each task i do , some tasks are long like check desk,
+		some tasks are quick like organise structure but most of 
+		them are long time tasks
+		also some of those tasks are done manually and some are done automatically 
+		but i think most of them are done automatically
+		i think the tasks we do is:
+			defrag [auto] [once a month]
+			check desk [auto] [once a month]
+			local backup [manually] [once a month]
+			portable backup [auto] [once a month]
+			portable backup [manually] [once for two months]
+			defrag system [auto] [twice a month]
+			organise structure [manually] [twice a month]
+			cleansing temp files [manually/auto] [once a month]
+			check antivirus [auto] [once a week]
+			cleansing physically [manually] [once a month]
+			check and fix registry [auto] [once a month]
+			check drivers [once for three months]
+			full Malware Scan [auto] [once for two months]
+			create restore point [auto] [twice a month]
+			
+	getting resources[PC]: it is the time used for getting study/college resources
+		this time can differ based on the something im searching about, like to find 
+		good course could be hard or even if u are searching about something specifically
+		and it could be more chellenging if it is rare thing to search or with low content
+		there are many factor would lead to low content but here is not the place to describe them
+		
+	challenging[PC]: challenges i do, it could be speed-typing problem solving, projects
+		if it is speed-typing it would usually take from 10 mins to 15 mins
+		if it is problem solving or projects it depends on the complexity
+		i think we can assume like 1 to 2 hours
+		
+	writting[PPC]: the time spent on writting, like the time i write in this file now, 
+		i do alot of writting this is becuase to store the information i gain or for
+		more organising like for this file
+		
+	Phtotoshop: the time i spent desgining or working on the photoshop
+		if it is working it would take more/less 1 hour
+		if i desgin for myself and this is rarely it wouldnt exceed 30 mins
+
+
+---
+Those are activities not related to PC or Phone but i do it
+	grocery: it cant be determined how would be the time i go for grocery, but usually
+		everyday i go for grocery at least once a time
+		
+	vactions: the vactions usually are half a day, 1 day and half, or two days but it is rarely if it 
+		exceeded the third day, maybe i go to vaction once a month
+		
+	cleansing and organising: this is usually happen once a week where i cleaning my room
+	
+	Prayer: Prayer can take about from one to one and half hour per day
+	
+	person life: it is like a package of activities any other person do it,
+		like sleeping, eating, drinking, getting shower, health care, ...etc.
+		
+	working: i do two kinds of working[internally, externally]
+		for internally, i usually work on Photoshop as i have mentioned before
+		for externally, i usually work on the workplace, this workplace can take about
+		1 hour in transportations if the road is not crowded, but it would expand to 2 hours
+		if the is crowded and maybe 2.5 hours if overcrowded
+		this time is the time when i go to the work[arrival time], but when returning back
+		it would take 1 hour to 2 hours if crowded or there is no transportations
+		
+		but the actual work time vary depending on the season and day, 
+		early season mean much work
+		usually the time spent at workplace is about 1 to 3 hours
+
+		
+---
+Those are activities i think need to do it or add it
+	practice/training: i would actually want to go for some practice/training
+		so we have to freed some time for that and re-allocate it
