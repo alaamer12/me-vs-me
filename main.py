@@ -4,7 +4,7 @@ from rich import print as rprint
 from rich.progress import track
 import os
 import subprocess
-from typing import Optional
+from typing import Optional, final
 
 # Initialize rich console
 console = Console()
@@ -114,6 +114,53 @@ def verify_directory_name(directory_name: str) -> str:
         return fixed_name
     return directory_name
 
+def handle_existing_remote() -> bool:
+    """Handle existing remote origin with user choices."""
+    try:
+        stdout, _ = run_command(["git", "remote", "get-url", "origin"], current_directory)
+        current_remote = stdout.strip()
+        
+        console.print(Panel(
+            f"[yellow]Remote origin already exists:[/yellow]\n[blue]{current_remote}[/blue]",
+            title="⚠ Existing Remote"
+        ))
+        
+        console.print("\nChoose how to handle the existing remote:")
+        console.print("[1] [green]Safe remove[/green] (remove remote only, keep repo)")
+        console.print("[2] [red]Hard remove[/red] (remove remote and delete repo)")
+        console.print("[3] [blue]Skip[/blue] (keep current remote)")
+        
+        choice = input("\nEnter your choice (1-3): ").strip()
+        
+        if choice == "1":
+            run_command(["git", "remote", "remove", "origin"], current_directory)
+            console.print("[green]✓[/green] Remote origin safely removed")
+            return True
+        elif choice == "2":
+            # Get the owner and repo name from the remote URL
+            parts = current_remote.split("/")
+            if len(parts) >= 2:
+                repo_path = "/".join(parts[-2:]).replace(".git", "")
+                try:
+                    run_command(["gh", "repo", "delete", repo_path, "--yes"], current_directory)
+                    console.print("[green]✓[/green] Remote repository deleted")
+                except subprocess.CalledProcessError:
+                    console.print("[yellow]⚠[/yellow] Failed to delete remote repository, but continuing...")
+            
+            run_command(["git", "remote", "remove", "origin"], current_directory)
+            console.print("[green]✓[/green] Remote origin removed")
+            return True
+        elif choice == "3":
+            console.print("[blue]ℹ[/blue] Keeping current remote")
+            return False
+        else:
+            console.print("[red]Invalid choice. Keeping current remote.[/red]")
+            return False
+            
+    except subprocess.CalledProcessError:
+        # No remote exists
+        return True
+
 def commit_and_push(message: Optional[str] = None) -> None:
     """Commit and push changes to GitHub."""
     if not message:
@@ -125,6 +172,7 @@ def commit_and_push(message: Optional[str] = None) -> None:
             if not os.path.exists(".git"):
                 run_command(["git", "init"], current_directory)
                 console.print("[green]✓[/green] Git repository initialized")
+            
             if not os.path.exists(".gitignore"):
                 status.update("[bold green]Creating .gitignore...")
                 with open(".gitignore", "w") as f:
@@ -136,8 +184,10 @@ def commit_and_push(message: Optional[str] = None) -> None:
             status.update("[bold green]Committing changes...")
             run_command(["git", "commit", "-m", message], current_directory)
             
-            status.update("[bold green]Setting up remote...")
-            run_command(["git", "remote", "add", "origin", repo_url], current_directory)
+            status.update("[bold green]Checking remote...")
+            if handle_existing_remote():
+                status.update("[bold green]Setting up remote...")
+                run_command(["git", "remote", "add", "origin", repo_url], current_directory)
             
             status.update("[bold green]Pushing to GitHub...")
             run_command(["git", "push", "-u", "origin", "main"], current_directory)
@@ -170,3 +220,6 @@ if __name__ == "__main__":
     except Exception as e:
         console.print("\n[red]Process failed. Please fix the errors above and try again.[/red]")
         exit(1)
+    finally:
+        console.print("\n[bold green]✨ Process completed successfully![/bold green]")
+        i = input("\nPress Enter to exit...")
