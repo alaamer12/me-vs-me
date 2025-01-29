@@ -11,6 +11,7 @@ through this year:
 	we have did a lot of work through `tealim` <our dream project>
 	we have created a comprehensive accurate backlog file for tealim [over 200 rows x 11 column]
 	we have get better in life
+	we have got a lot of learning resources specially for python
 	we have got friends [previous years we were not]
 	we have got respected by a few [better than nothing]
 	we created different diagrams, different documents for tealim and for other things

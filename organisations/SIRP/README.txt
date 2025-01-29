@@ -1,1 +1,0 @@
-SIRP stands for Security Incident Response Plan
